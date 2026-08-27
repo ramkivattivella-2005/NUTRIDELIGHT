@@ -1,0 +1,6 @@
+{
+  "name": "NutriDelight",
+  "description": "A modern, premium and responsive food ordering website for healthy, fresh, and nutritious food.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
