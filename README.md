@@ -1,20 +1,37 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# 🍽️ NutriDelight
 
-# Run and deploy your AI Studio app
+A modern, responsive food ordering website designed to provide users with a simple and engaging experience for discovering healthy, fresh, and nutritious food.
 
-This contains everything you need to run your app locally.
+## ✨ Features
 
-View your app in AI Studio: https://ai.studio/apps/90c8ddcb-4d73-4585-8beb-4b437571bebb
+- 🍴 Browse food and beverage items
+- 🥗 Nutrition-focused food options
+- 🔍 Easy and user-friendly menu browsing
+- 🛒 Shopping cart functionality
+- 📱 Responsive design for different screen sizes
+- 🎨 Modern and engaging user interface
+- 🖼️ Food images and detailed menu information
 
-## Run Locally
+## 🛠️ Technologies Used
 
-**Prerequisites:**  Node.js
+- React
+- TypeScript
+- Vite
+- HTML
+- CSS
+- JavaScript
+- Google AI Studio
 
+## 📂 Project Structure
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+```text
+NUTRIDELIGHT/
+├── src/
+├── assets/
+├── App.tsx
+├── data.ts
+├── main.tsx
+├── types.ts
+├── index.css
+├── package.json
+└── README.md
